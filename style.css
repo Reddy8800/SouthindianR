@@ -39,7 +39,7 @@ body {
 
 /* TITLE */
 .main-title {
-    font-size: 2.5rem;
+    font-size: 2rem;
     font-weight: 700;
     background: linear-gradient(90deg, #ffcc00, #ff4d6d);
     -webkit-background-clip: text;
